@@ -15,7 +15,12 @@ I am a fullstack developer who learns to code not actually coding, but bugging  
   
  ## My Projects
  
+ ### FastAPI
+ 
 [tortillalandAPI](https://github.com/sora-san-df/TortillaLand_API)
+
+### React
+[twitter_like_app](https://github.com/sora-san-df/twitter_like_app)
  
  ## Technologies that i use:
  
