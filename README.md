@@ -10,7 +10,7 @@
 I am a fullstack developer who learns to code not actually coding, but bugging  all the mess that i do :)
 
  - The self-thaugth mode is hard, but it gives you double xp, trust 🧠
- - Currently learning Reat router and Java. 🌱
+ - Currently learning React router and Java. 🌱
  - I like to talk, let's talk! feel free to Dm me on discord or linkedin :D
   
  ## My Projects
