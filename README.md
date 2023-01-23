@@ -20,7 +20,13 @@ I am a fullstack developer who learns to code not actually coding, but bugging  
 [tortillalandAPI](https://github.com/sora-san-df/TortillaLand_API)
 
 ### React
-[twitter_like_app](https://github.com/sora-san-df/twitter_like_app)
+[twitter_like_app](https://github.com/sora-san-df/twitter_like_app) 
+
+[Pintash](https://github.com/sora-san-df/Pintash)
+
+[bitKit](https://github.com/sora-san-df/8bitKit)
+
+
  
  ## Technologies that i use:
  
