@@ -3,7 +3,7 @@
 ## You can find around here:
  -Linkedin: https://www.linkedin.com/in/diego-fernando-mera-largo/
  
- -Discord: cloud#0729
+ -Discord: cloud0729
  
  ## About Me 
 
