@@ -28,8 +28,7 @@ I am a fullstack developer who learns to code not actually coding, but bugging  
 
 ## Experience:
 
-  - Currently working For Ninja Group Software for about 2 years .
-  - 
+  - Currently working For Ninja Group Software for about 2 years.
  
  ## Technologies that i use:
  
