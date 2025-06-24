@@ -26,7 +26,10 @@ I am a fullstack developer who learns to code not actually coding, but bugging  
 
 [bitKit](https://github.com/sora-san-df/8bitKit)
 
+## Experience:
 
+  - Currently working For Ninja Group Software for about 2 years .
+  - 
  
  ## Technologies that i use:
  
